@@ -1,0 +1,4 @@
+Acme Corp,John Doe,+12345678901,123 Market Street, Software Development
+Blue Whale Ltd.,Jane Smith,+19876543210,456 Ocean Drive, IT Services
+Blossom Enterprises,Anna Blossom,+12223334455,789 Floral Avenue, Consulting
+Green Hills Inc.,Alex Green,+10987654321,101 Mountain Road, Food Production
